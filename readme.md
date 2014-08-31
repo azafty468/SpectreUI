@@ -1,3 +1,11 @@
+Build:
+mvn clean package
+
+Deploy:
+mvn deploy
+
+
+
 To Do list:
 
 0) draw basic screen objects
